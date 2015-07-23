@@ -1,0 +1,13 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TaxiDriver\TaxiDriver\bin\Debug\TaxiDriver.exe.config
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TaxiDriver\TaxiDriver\obj\Debug\TaxiDriver.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TaxiDriver\TaxiDriver\bin\Debug\TaxiDriver.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TaxiDriver\TaxiDriver\bin\Debug\TaxiDriver.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TaxiDriver\TaxiDriver\obj\Debug\TaxiDriver.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TaxiDriver\TaxiDriver\obj\Debug\TaxiDriver.pdb
+\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\TaxiDriver\TaxiDriver\bin\Debug\Database_log.ldf
+G:\TaxiDriver\TaxiDriver\bin\Debug\TaxiDriver.exe.config
+G:\TaxiDriver\TaxiDriver\obj\Debug\TaxiDriver.exe
+G:\TaxiDriver\TaxiDriver\obj\Debug\TaxiDriver.pdb
+G:\TaxiDriver\TaxiDriver\bin\Debug\TaxiDriver.exe
+G:\TaxiDriver\TaxiDriver\bin\Debug\TaxiDriver.pdb
+G:\TaxiDriver\TaxiDriver\obj\Debug\TaxiDriver.csprojResolveAssemblyReference.cache
